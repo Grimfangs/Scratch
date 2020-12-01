@@ -1,7 +1,9 @@
 # Scratch
 A repository all the Scratch Projects I have ever made
 
-## Instructions:
+## Crappy Bird
+
+### Instructions:
 This is a simple game where you are a pigeon and like all pigeons, your objectives in life are to survive and poop on humans.
 
 Use the arrow keys to move and dodge humans and other birds. Crows are simple and mind their own business. They don't bother about you till you get in their way. Red birds are just plain angry and don't want to see you so they tackle you head-on when they can. Eagles are just doing their jobs and trying to kill you form above.
@@ -15,7 +17,7 @@ The Messiah Award: Score 2000 points.
 
 And that is all that there is to this game. Survive for as long as you can and poop on as many humans as you can.
 
-## Credits:
+### Credits:
 Sound Effects by Warehouse Sound FX, SoundEffectsFactory, Gaming Sound FX, Red and Black, TheOneAndOnly, Kat Avila, and Dylan John on Youtube.
 
 Pigeon, Crow, and Red Bird sprites from Freepik.
